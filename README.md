@@ -1,6 +1,10 @@
 # ClothTransformer: Unified Latent-Space Transformers for Scalable Cloth Simulation
 
-[Project Page](https://yucrazing.github.io/clothtransformer/) | [arXiv](https://arxiv.org/abs/2605.27852)
+[Project Page](https://yucrazing.github.io/clothtransformer/) | [arXiv](https://arxiv.org/abs/2605.27852) | [Dataset](https://huggingface.co/datasets/YuCrazing1/ClothTransformer-dataset)
+
+## News
+
+- **[2026-07-17]** The dataset is now available on [Hugging Face](https://huggingface.co/datasets/YuCrazing1/ClothTransformer-dataset)!
 
 
 
