@@ -5,6 +5,7 @@
   <a href="https://arxiv.org/abs/2605.27852"><img src="https://img.shields.io/badge/arXiv-2605.27852-b31b1b?logo=arxiv&logoColor=white" alt="arXiv"></a>
   <a href="https://huggingface.co/datasets/YuCrazing/ClothTransformer-dataset"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-ffcc4d" alt="Dataset"></a>
   <a href="https://huggingface.co/YuCrazing/ClothTransformer-checkpoint"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Checkpoint-ffcc4d" alt="Checkpoint"></a>
+  <a href="https://x.com/yucrazing/status/2064254772086280337"><img src="https://img.shields.io/badge/X-Post-000000?logo=x&logoColor=white" alt="X Post"></a>
 </p>
 
 ![teaser](https://yucrazing.github.io/clothtransformer/static/images/teaser.webp)
